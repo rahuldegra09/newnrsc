@@ -10,8 +10,7 @@ const Navbar = () => {
 
             <div className='flex flex-col items-center justify-center text-black text-[10px] md:text-2xl '>
               <h1>Explore Historical Climate Trends</h1>
-              <h1>National Remote Sensing Center</h1>
-              <h1>Government of India.</h1>
+              <h1>Climate Insights.</h1>
             </div>
         <div className=' flex justify-center '>
                   <img src="ss.jpg" alt="Start Logo" width={50} height={50} />
